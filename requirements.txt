@@ -1,0 +1,12 @@
+transformers
+huggingface_hub
+diffusers
+torch
+accelerate
+safetensors
+flask
+flask-cors
+Pillow
+peft
+trl
+datasets
